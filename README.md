@@ -1,4 +1,4 @@
-# Python - Días Entre Fechas
+# Python - Días entre fechas
 
 Este proyecto contiene una función en Python que calcula el número de días transcurridos entre dos fechas. Se ha mejorado la implementación original utilizando el módulo `datetime` de Python para lograr un código más robusto, claro y eficiente.
 
