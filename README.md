@@ -61,7 +61,3 @@ python dias_entre_fechas.py
 ## Licencia
 
 Este proyecto se distribuye bajo la [Licencia MIT](LICENSE).
-
-## Autor
-
-Pablo Beret
